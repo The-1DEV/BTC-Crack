@@ -1,3 +1,4 @@
+Just for testing purbose don't use public wallets 
 BTC cracker against your own addresses from `OwnBTCAdress.txt`.
 
 - Wallet 1 first — if funded, continue to Wallet 2
